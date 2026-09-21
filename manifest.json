@@ -1,0 +1,12 @@
+{
+  "display_name": "Rita 后台保活音频",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Rita",
+  "version": "1.0.0",
+  "homePage": "https://github.com/rita090qwq/rita-sillytavern-background-audio",
+  "auto_update": true
+}
